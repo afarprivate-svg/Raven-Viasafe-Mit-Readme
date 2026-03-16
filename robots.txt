@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+Sitemap: https://viasafe.de/sitemap.xml
+
+# ViaSafe - Versicherungen für Neuankömmlinge in Deutschland
+# Crawl-Delay: 1
